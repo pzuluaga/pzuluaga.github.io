@@ -27,7 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am a political scientist from Cali, Colombia. My research focuses on political behavior, with an emphasis on gender gaps in political attitudes, public opinion, and participation, as well as on political economy, including state formation, fiscal capacity, and democracy.
+
+I am a Researcher at the [Survey Methodology and Analysis Centre](https://joint-research-centre.ec.europa.eu/projects-and-activities/survey-methods-and-analysis-centre_en) of the European Comission, Join Research Centre. Previously, I was a postdoctoral research and a Juan de la Cierva Fellow at the Autnonomous University of Barcelona. I hold a  PhD  in Political and Social Sciences from the European University Institute (EUI), a MRs degree in Political and Social Sciences from the same university, and a MA in Political Science from the Central European University (CEU).
+
+I am currently involved in the GENEQ-RESIST, GPOL and DEMOTRADEOFF projects, which examine citizens’ attitudes toward gender equality in Europe and commitments to democratic principles. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
