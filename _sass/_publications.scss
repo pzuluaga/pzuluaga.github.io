@@ -186,3 +186,8 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+// Custom: publication title color
+.bibliography .title {
+  color: var(--global-theme-color);
+  font-weight: 500;
+}
